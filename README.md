@@ -107,7 +107,6 @@ app/javascript:
   ├── packs:
   │   # only webpack entry files here
   │   └── application.js
-  └── src:
   │   └── application.css
   └── images:
       └── logo.svg
